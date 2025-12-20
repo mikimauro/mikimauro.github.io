@@ -1,0 +1,22 @@
+{
+  "name": "ScanBiz - Lettore Biglietti",
+  "short_name": "ScanBiz",
+  "description": "Scanner intelligente per biglietti da visita con AI.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2563eb",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/1022/1022213.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/1022/1022213.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

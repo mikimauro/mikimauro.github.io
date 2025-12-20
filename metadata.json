@@ -1,0 +1,7 @@
+{
+  "name": "ScanBiz - Business Card Reader",
+  "description": "An intelligent business card scanner that extracts contact details from printed or handwritten cards using AI, organizing them into a searchable digital address book.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
