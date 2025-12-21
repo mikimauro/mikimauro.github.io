@@ -1,10 +1,11 @@
+
 {
-  "name": "ScanBiz - Business Card Reader",
-  "description": "An intelligent business card scanner that extracts contact details from printed or handwritten cards using AI, organizing them into a searchable digital address book.",
+  "name": "ScanText AI - Lettore Documenti e Biglietti",
+  "short_name": "ScanText",
+  "description": "Scanner intelligente con AI per digitalizzare biglietti da visita e documenti.",
   "requestFramePermissions": [
     "camera"
   ],
-  "short_name": "ScanBiz",
   "theme_color": "#2563eb",
   "background_color": "#f8fafc",
   "display": "standalone"

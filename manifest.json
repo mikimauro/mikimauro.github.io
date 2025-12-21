@@ -1,7 +1,7 @@
 
 {
-  "name": "ScanBiz AI - Lettore Biglietti",
-  "short_name": "ScanBiz",
+  "name": "ScanText AI",
+  "short_name": "ScanText",
   "description": "Scanner intelligente con AI per digitalizzare biglietti da visita e documenti scritti a mano.",
   "start_url": "/",
   "display": "standalone",
@@ -17,24 +17,9 @@
     },
     {
       "src": "https://cdn-icons-png.flaticon.com/512/1022/1022213.png",
-      "sizes": "192x192",
-      "type": "image/png",
-      "purpose": "maskable"
-    },
-    {
-      "src": "https://cdn-icons-png.flaticon.com/512/1022/1022213.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any"
-    }
-  ],
-  "categories": ["business", "productivity"],
-  "screenshots": [
-    {
-      "src": "https://cdn-icons-png.flaticon.com/512/1022/1022213.png",
-      "sizes": "512x512",
-      "type": "image/png",
-      "form_factor": "narrow"
     }
   ]
 }
