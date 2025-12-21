@@ -1,40 +1,18 @@
-
 {
-  "name": "ScanBiz AI - Lettore Biglietti",
+  "name": "ScanBiz - Lettore Biglietti & QR",
   "short_name": "ScanBiz",
-  "description": "Scanner intelligente con AI per digitalizzare biglietti da visita e documenti scritti a mano.",
+  "description": "Scanner intelligente per biglietti da visita e codici QR con AI.",
   "start_url": "/",
   "display": "standalone",
   "orientation": "portrait",
-  "background_color": "#ffffff",
+  "background_color": "#f8fafc",
   "theme_color": "#2563eb",
+  "categories": ["business", "productivity", "utilities"],
   "icons": [
     {
       "src": "https://cdn-icons-png.flaticon.com/512/1022/1022213.png",
       "sizes": "192x192",
-      "type": "image/png",
-      "purpose": "any"
-    },
-    {
-      "src": "https://cdn-icons-png.flaticon.com/512/1022/1022213.png",
-      "sizes": "192x192",
-      "type": "image/png",
-      "purpose": "maskable"
-    },
-    {
-      "src": "https://cdn-icons-png.flaticon.com/512/1022/1022213.png",
-      "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "any"
-    }
-  ],
-  "categories": ["business", "productivity"],
-  "screenshots": [
-    {
-      "src": "https://cdn-icons-png.flaticon.com/512/1022/1022213.png",
-      "sizes": "512x512",
-      "type": "image/png",
-      "form_factor": "narrow"
+      "type": "image/png"
     }
   ]
 }
