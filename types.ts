@@ -1,3 +1,4 @@
+
 export interface Contact {
   id: string;
   firstName: string;
@@ -39,5 +40,6 @@ export enum AppView {
   DOC_EDIT = 'DOC_EDIT'
 }
 
+export type ScanMode = 'CARD' | 'TEXT' | 'QR';
 export type NewContactDraft = Omit<Contact, 'id' | 'createdAt'>;
 export type DocumentDraft = Omit<ScannedDocument, 'id' | 'createdAt'>;
